@@ -11,11 +11,16 @@ Yearly Crime Trends Dataset: This dataset contains state-wise reported crime cas
 
 ## Methodology: ##
 
-### Data Preprocessing: ### We perform data cleaning, handling missing values, and feature engineering to prepare the datasets for analysis.
-### Ensemble Learning Models: ### We implement Bagging, Gradient Boosting, Ada Boosting, Random Forest, and XG Boost algorithms to develop predictive models for cybercrime rates. Each model is trained, validated, and optimized using appropriate techniques.
-### Comparative Analysis: ### We evaluate the performance of each model using metrics such as R2 Score, MSE, MAE, and RMSE. This comparative analysis helps identify the most effective ensemble learning technique for cybercrime rate prediction.
-### Crime Category Analysis: ### Utilizing the Cybercrime Categories Dataset, we analyze the prevalence and trends of specific cybercrime types across different states and years.
-### Trend Identification: ### Leveraging the Yearly Crime Trends Dataset, we identify significant patterns and trends in cybercrime rates over the years, enabling insights into evolving cyber threats.
+### Data Preprocessing:
+We perform data cleaning, handling missing values, and feature engineering to prepare the datasets for analysis.
+### Ensemble Learning Models:
+We implement Bagging, Gradient Boosting, Ada Boosting, Random Forest, and XG Boost algorithms to develop predictive models for cybercrime rates. Each model is trained, validated, and optimized using appropriate techniques.
+### Comparative Analysis:
+We evaluate the performance of each model using metrics such as R2 Score, MSE, MAE, and RMSE. This comparative analysis helps identify the most effective ensemble learning technique for cybercrime rate prediction.
+### Crime Category Analysis:
+Utilizing the Cybercrime Categories Dataset, we analyze the prevalence and trends of specific cybercrime types across different states and years.
+### Trend Identification:
+Leveraging the Yearly Crime Trends Dataset, we identify significant patterns and trends in cybercrime rates over the years, enabling insights into evolving cyber threats.
 
 ## Results and Interpretation: ##
 The results of our analysis provide valuable insights into the effectiveness of ensemble learning techniques for cybercrime forecasting. We identify the top-performing model based on the evaluation metrics and provide interpretations of the predicted crime rates. Additionally, our analysis of cybercrime categories and yearly trends offers actionable insights for stakeholders in cybersecurity and law enforcement.
