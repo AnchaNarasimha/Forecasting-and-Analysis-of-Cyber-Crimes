@@ -1,4 +1,4 @@
-# Forecasting-and-Analysis-of-Cyber-Crimes
+# Forecasting and Analysis of Cyber Crimes
 
 ## Introduction: ##
 Cybercrime is a growing concern globally, with its impacts extending across individuals, businesses, and governments. To address this challenge effectively, accurate forecasting and analysis of cybercrime trends are essential. In this project, we focus on leveraging ensemble learning techniques to forecast cybercrime rates and analyze various cybercrime categories. Our approach involves a comparative analysis of several ensemble learning algorithms, namely Bagging, Gradient Boosting, Ada Boosting, Random Forest, and XG Boost. We evaluate these models using metrics such as R2 Score, Mean Squared Error (MSE), Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE). Additionally, we provide predicted crime rates based on input parameters including Year, State, Population, Total Broadband Subscriptions, Total Internet Subscriptions, and Total Wireless Internet Subscriptions.
